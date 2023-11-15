@@ -1,5 +1,5 @@
 <?php
-
+//Alfonso Reviejo Valle
 //GitHub: https://github.com/alfonn13/Examen_DWES-15-11
 
 // Solicitar los archivos "articulo.php", "bebida.php", "pizza.php";
